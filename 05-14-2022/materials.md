@@ -2,12 +2,12 @@
 
 todo: 
 1. Install python3 (https://www.python.org/downloads/)
-2. install pycharm __(or sublime text)__
+2. install pycharm _(or sublime text)_
 
 
 Practice Problems: 
 
-**I forgot to show you how to take inputs. Try to figure that out yourself. If you can't, it's totally fine. We're gonna work on them in our next class**
+_I forgot to show you how to take inputs. Try to figure that out yourself. If you can't, it's totally fine. We're gonna work on them in our next class_
 
 1. [Codeforces Watermelon](https://codeforces.com/problemset/problem/4/A)
 2. [Codeforces Domino Piling](https://codeforces.com/problemset/problem/50/A)
