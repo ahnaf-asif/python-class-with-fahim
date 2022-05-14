@@ -1,2 +1,4 @@
 # python-class-with-fahim
-Python Class with Fahim
+
+
+All Class materials will be inside the spefic date folders (mm/dd/yyyy)
